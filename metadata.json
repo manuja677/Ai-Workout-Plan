@@ -1,0 +1,5 @@
+{
+  "name": "FitPlan",
+  "description": "A web application that generates a personalized workout plan based on user's physical attributes and available days, using Gemini API. The plan is tailored to specific muscle groups for each workout session.",
+  "requestFramePermissions": []
+}
